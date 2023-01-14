@@ -18,5 +18,3 @@ This project is a practical application on input and how to add , and subtract ,
 # My accounts 
  in Instagram : @mr.lxzl
  in Twitter : @MrX48915521 
-    
-    
