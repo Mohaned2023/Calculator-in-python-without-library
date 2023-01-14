@@ -1,5 +1,7 @@
-# My-projects-in-python
-
+# The Work
+This project is a practical application on input and how to add , and subtract , and multiply ,
+ and divdie unlimited number
+ 
 # My name
  is Mohaned Mohammed Sherhan
 
