@@ -76,8 +76,3 @@ def chooes_the_pro():
 chooes_the_pro()
 
 
-"""
-((1-2)-3)
-
-"""
-
