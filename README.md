@@ -6,7 +6,7 @@ This project is a practical application on input and how to add , and subtract ,
  is Mohaned Mohammed Sherhan
 
 # My country 
- Country i live in Yemen 
+ I live in Yemen 
 
 # My special 
  is in Hack and Cyber security and Software developer in python. 
