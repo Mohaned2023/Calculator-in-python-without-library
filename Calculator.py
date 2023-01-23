@@ -1,4 +1,4 @@
-# Writing by Mohaned Mohammed Sherhan 
+# Written by Mohaned Mohammed Sherhan 
 
 # import operator and reduce and time 
 import operator
