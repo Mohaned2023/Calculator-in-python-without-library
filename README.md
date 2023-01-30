@@ -1,4 +1,8 @@
-# The Work
+# The Work v2
+Attention: This project was built without
+the need to use any external library or included library in Python
+
+# The Work v1
 This project is a practical application on input and how to add , and subtract , and multiply ,
  and divdie unlimited number
  
