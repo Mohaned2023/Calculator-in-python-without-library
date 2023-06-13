@@ -1,21 +1,18 @@
-# The Work v2
-Attention: This project was built without
-the need to use any external library or included library in Python
+# **About this Project :**
++ v1 :
+    - This project is a practical application on input and how to add , and subtract , and multiply , and divdie unlimited number
 
-# The Work v1
-This project is a practical application on input and how to add , and subtract , and multiply ,
- and divdie unlimited number
- 
-# My name
- is Mohaned Mohammed Sherhan
++ v2 :
 
-# My country 
- I live in Yemen 
+    - Attention: This project was built without the need to use any external library or included library in Python
 
-# My special 
- is in Hack and Cyber security and Software developer in python. 
- Of course I am still learining                     
-    
-# My accounts 
- in Instagram : @mr.lxzl
- in Twitter : @MrX48915521 
+
+# **Written by** :
+> ___Mohaned Sherhan ~ 2023___
+
+# **My accounts on :**
+>[Twitter](https://twitter.com/MrX2023M?t=rHyMHB151bMLMsc94DkKvg&s=09)
+
+>[instagram](https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y)
+
+>[Github](https://github.com/Mohaned2023)
