@@ -24,9 +24,7 @@ class Mathl:
     def __init__(self,liste):
         self.__arge = liste
 
-    # Of course, this function{square_s} is not from my think.
-    # I admit that I used AI ,
-    # but I understood the general concept of it.
+    # def to get the square 
     def square_s(self,num):
         if num < 1:
             return 0
